@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Personal_Website/static/css/main.cb565dc6.css",
+    "main.js": "/Personal_Website/static/js/main.9d158228.js",
+    "static/media/img4.jpg": "/Personal_Website/static/media/img4.37d2c7ec232e01aca7cb.jpg",
+    "static/media/img2.jpg": "/Personal_Website/static/media/img2.1db42ba8e732a7939495.jpg",
+    "static/media/img1.png": "/Personal_Website/static/media/img1.8557588df3fd0a7aa8a5.png",
+    "static/media/portfolio1.png": "/Personal_Website/static/media/portfolio1.bad3f713c6e767e0ad68.png",
+    "static/media/img1.jpg": "/Personal_Website/static/media/img1.ae3d432ed0d097d9b5bc.jpg",
+    "static/media/bg-texture.jpg": "/Personal_Website/static/media/bg-texture.40503e3de24f7ef59967.jpg",
+    "static/media/img3.JPEG": "/Personal_Website/static/media/img3.426aa2344bed928c81f0.JPEG",
+    "static/media/img2.png": "/Personal_Website/static/media/img2.49b9b8f8fb704beef988.png",
+    "static/media/img4.png": "/Personal_Website/static/media/img4.3852964ecaeb53104027.png",
+    "static/media/portfolio2.png": "/Personal_Website/static/media/portfolio2.15f845ad42ad7bef4a11.png",
+    "static/media/img3.png": "/Personal_Website/static/media/img3.dca580efa3415b3ceca1.png",
+    "static/media/img5.png": "/Personal_Website/static/media/img5.cce2ce7ae60237ffdc36.png",
+    "static/media/img6.png": "/Personal_Website/static/media/img6.0ecac6571d49fb41ca42.png",
+    "static/media/img7.png": "/Personal_Website/static/media/img7.c1c033055d3fae96cea0.png",
+    "static/media/me-about.jpg": "/Personal_Website/static/media/me-about.8a2a4b7e964c3923b492.jpg",
+    "static/media/profile1.jpg": "/Personal_Website/static/media/profile1.7c0a70e331bd30c22cb4.jpg",
+    "static/media/img5.jpg": "/Personal_Website/static/media/img5.85283ca3cfde155bb665.jpg",
+    "static/media/img6.jpg": "/Personal_Website/static/media/img6.7cde3247648cded2954e.jpg",
+    "static/media/portfolio6.jpg": "/Personal_Website/static/media/portfolio6.dad5a8e37a91b9ce4593.jpg",
+    "static/media/portfolio3.jpg": "/Personal_Website/static/media/portfolio3.b83a562081d935b0a632.jpg",
+    "static/media/img3.jpg": "/Personal_Website/static/media/img3.babdb1b92c07afc3045a.jpg",
+    "static/media/Fernando,Warnakulasuriya_Resume.pdf": "/Personal_Website/static/media/Fernando,Warnakulasuriya_Resume.aed60041c2ed52057a58.pdf",
+    "static/media/portfolio4.jpg": "/Personal_Website/static/media/portfolio4.ae3d432ed0d097d9b5bc.jpg",
+    "index.html": "/Personal_Website/index.html",
+    "main.cb565dc6.css.map": "/Personal_Website/static/css/main.cb565dc6.css.map",
+    "main.9d158228.js.map": "/Personal_Website/static/js/main.9d158228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb565dc6.css",
+    "static/js/main.9d158228.js"
+  ]
+}
