@@ -1,0 +1,19 @@
+.progress__gallery {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    gap: 5%;
+    background: linear-gradient(to right, #010101 15%, #011926, #000539, #002050, #003469);
+    padding-top: 5rem;
+    padding-bottom: 10rem;    
+}
+
+.progress__item-bar {
+    width: 300px;
+    height: 300px;
+    padding-top: -20px;
+}
+
+.progress__items {
+    text-align: center;
+}

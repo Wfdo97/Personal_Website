@@ -1,0 +1,14 @@
+.container__styles {
+    width: 45%;
+    height: 400px;
+    margin: 0px auto;
+    background: linear-gradient(to right, #010101 15%, #011926, #000539, #002050, #003469);
+}
+
+/* =============== MEDIA QUERIES (SMALL DEVICES) =============== */
+@media screen and (max-width: 600px) {
+    .container__styles {
+        height: 200px;
+        
+    }
+}

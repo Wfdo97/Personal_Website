@@ -1,0 +1,41 @@
+.container.contact__container {
+    width: 50%;
+    background: linear-gradient(to right, #010101 15%, #011926, #000539, #002050, #003469);
+    gap: 12%;
+    justify-content: center;
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+}
+
+/* =============== FORM =============== */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 1.5;
+    border-radius: 0.5rem;
+    background: var(--color-primary);
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    color: var(--color-white);
+    min-height: 3rem;
+}
+
+/* =============== MEDIA QUERIES (MEDIUM DEVICES) =============== */
+@media screen and (max-width: 1024px) {
+    .container.contact__container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+/* =============== MEDIA QUERIES (SMALL DEVICES) =============== */
+@media screen and (max-width: 600px) {
+    .container.contact__container {
+        width: var(--container-width-sm);
+    }
+}

@@ -1,0 +1,24 @@
+.container__styles {
+    width: 50%;
+    height: 500px;
+    margin: 0px auto;
+    background: linear-gradient(to right, #010101 15%, #011926, #000539, #002050, #003469);
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 2rem;
+}
+
+/* =============== MEDIA QUERIES (SMALL DEVICES) =============== */
+@media screen and (max-width: 600px) {
+    .container__styles {
+        width: 70%;
+        height: 350px;
+        padding-bottom: 4rem;
+        padding-top: 0.8rem;
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+        border-radius: 2rem;
+    }
+}
